@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lifecycle Monitor</string>
+    <string name="main_activity_title">Main Activity</string>
+    <string name="second_activity_title">Second Activity</string>
+    <string name="third_activity_title">Third Activity</string>
+    <string name="auto_scroll">Auto-scroll</string>
+    <string name="clear_logs">Clear</string>
+    <string name="add_separator">Separator</string>
+    <string name="go_to_second">Go to Second</string>
+    <string name="go_to_third">Go to Third</string>
+</resources>
