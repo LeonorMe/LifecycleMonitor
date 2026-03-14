@@ -1,0 +1,25 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Activity Backgrounds -->
+    <color name="activity_a_bg">#E3F2FD</color> <!-- Light Blue -->
+    <color name="activity_b_bg">#E8F5E9</color> <!-- Light Green -->
+    <color name="activity_c_bg">#F3E5F5</color> <!-- Light Purple -->
+    
+    <!-- Lifecycle State Colors -->
+    <color name="state_create">#4CAF50</color> <!-- Green -->
+    <color name="state_start">#2196F3</color>  <!-- Blue -->
+    <color name="state_resume">#03A9F4</color> <!-- Light Blue -->
+    <color name="state_pause">#FFEB3B</color>  <!-- Yellow -->
+    <color name="state_stop">#F44336</color>   <!-- Red -->
+    <color name="state_destroy">#9E9E9E</color> <!-- Grey -->
+    <color name="state_restart">#FF9800</color> <!-- Orange -->
+    
+    <color name="separator_bg">#EEEEEE</color>
+</resources>
